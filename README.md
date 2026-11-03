@@ -12,3 +12,5 @@ Space: go up
 Shift: go down
 
 Works on large servers.
+
+SUPPORT GTA SA-MP VERSION R1, R2, R3, R4, R5 OR GTA SA OFFLINE (PC)

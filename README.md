@@ -1,6 +1,8 @@
 # FlyCarSA-MP V1
 PLEASE UPDATE TO FlycarSA-MP v3 or higher.
 
+V3: https://github.com/robby5pryk-sudo/FlyCarSA-MP/releases/tag/V3
+
 you can fly in car
 
 

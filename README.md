@@ -1,4 +1,6 @@
-# FlyCarSA-MP
+# FlyCarSA-MP V1
+PLEASE UPDATE TO FlycarSA-MP v3 or higher.
+
 you can fly in car
 
 
